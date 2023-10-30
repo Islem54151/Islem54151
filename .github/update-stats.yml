@@ -20,8 +20,8 @@ jobs:
 
       - name: Commit and Push Stats
         run: |
-          git config --global user.email "github@example.com"
-          git config --global user.name "GitHub Action"
-          git add path-to-your-local-image.png
+          git config --global user.email "islem.nasraoui21@gmail.com"
+          git config --global user.name "Islem54151"
+          git add https://github-readme-stats.vercel.app/api?username=Islem54151&theme=radical
           git commit -m "Update GitHub Stats"
           git push
