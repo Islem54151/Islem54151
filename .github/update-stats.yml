@@ -1,0 +1,27 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Stats
+        run: |
+          # Run the script or command to generate your GitHub statistics image
+          # Example: github-readme-stats --username Islem54151 --theme radical
+          # Make sure the image is saved in your repository
+
+      - name: Commit and Push Stats
+        run: |
+          git config --global user.email "github@example.com"
+          git config --global user.name "GitHub Action"
+          git add path-to-your-local-image.png
+          git commit -m "Update GitHub Stats"
+          git push
