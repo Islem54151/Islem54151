@@ -24,5 +24,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Islem54151&limit=5&theme=flat&combine_all_yearly_contributions=true)
-### 🔝 wakka
-<figure><embed src="https://wakatime.com/share/@Islem54151/74b09eb0-b137-4501-bec2-dbb1efeb09df.svg"></embed></figure>
