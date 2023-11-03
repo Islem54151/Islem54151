@@ -21,8 +21,8 @@
 <img align="left" src="https://github-readme-stats-sigma-smoky-12.vercel.app/api?username=Islem54151&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Islem54151)](https://github.com/anuraghazra/github-readme-stats)
-[![Islem54151's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Islem54151)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Islem54151&limit=5&theme=flat&combine_all_yearly_contributions=true)
-![Islem54151's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Islem54151)](https://github.com/anuraghazra/github-readme-stats)
+### 🔝 wakka
 <figure><embed src="https://wakatime.com/share/@Islem54151/74b09eb0-b137-4501-bec2-dbb1efeb09df.svg"></embed></figure>
