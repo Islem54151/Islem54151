@@ -10,56 +10,45 @@ I hold a Bachelor's degree in Information and Communication Technology from the 
  <h2>👩🏻‍💻End-of-year internship:</h2>  Tunisie Télécom l ACTEL BEN AROUS
 Title: Migration from PSTN Network to NGN Network
 
-Study on the Local Subscriber Network (LSN)
-Study on Next-Generation Networks (MSAN, SFP Port, Router, Switch)
-Switch Configuration
-Dynamic Web Page Creation
-Keywords: ENSP, PHP, CSS, HTML, Javascript, Switch, MSAN
+- Study on the Local Subscriber Network (LSN)
+- Study on Next-Generation Networks (MSAN, SFP Port, Router, Switch)
+- Switch Configuration
+- Dynamic Web Page Creation
+- Keywords: ENSP, PHP, CSS, HTML, Javascript, Switch, MSAN
  <h2 >👩🏻‍💻End-of-study internship</h2>
  UPTECH - Urban Center North
 Title: Installation and Deployment of a Network Monitoring and Performance Enhancement Solution for UPTECH:
 
-Implementation of a Supervision Tool
-Installation of an IT Asset Management Solution
-Integration of a Firewall
-Intervention to Improve Wi-Fi Network Coverage
-Creation of a Web Page for Network Monitoring Facilitation
-Keywords: Sophos firewall, Prometheus, Grafana, GLPI, Cisco Aironet Mobility Express, D-Link Router, Docker, Linux, PHP, CSS, HTML, JS
+- Implementation of a Supervision Tool
+- Installation of an IT Asset Management Solution
+- Integration of a Firewall
+- Intervention to Improve Wi-Fi Network Coverage
+- Creation of a Web Page for Network Monitoring Facilitation
+- Keywords: Sophos firewall, Prometheus, Grafana, GLPI, Cisco Aironet Mobility Express, D-Link Router, Docker, Linux, PHP, CSS, HTML, JS
 <h3  style="color: blue;">🎖️CERTIFICATIONS</h3>
-ET80 - Sophos Firewall v19.5 - Engineer (2023)
-EFSET English certificate ( B1 Intermediate )(2023)
-ET 15 - Sophos Central Endpoint and Server v4,0 - Engineer
-Introduction to SAP (juillet 2023)
-SAP Fiori (juillet 2023)
-Jira Fundamentals Badge (aout  2023)
+- ET80 - Sophos Firewall v19.5 - Engineer (2023)
+- EFSET English certificate ( B1 Intermediate )(2023)
+- ET 15 - Sophos Central Endpoint and Server v4,0 - Engineer
+- Introduction to SAP (juillet 2023)
+- SAP Fiori (juillet 2023)
+- Jira Fundamentals Badge (aout  2023)
 <h3 style="color: blue;">🧠Skills</h3>
-Application Desktop : C, Matlab
-
-Integrated Development Environment (IDE) : Isis proteus , Matlab,
-Ensp, Cisco, Labview, HFSS ,Oracle Virtuel Box ,Docker
-
-Network Simulation : Ensp, Cisco ,Prometheus ,Grafana,GLPI,Eveng ,Sophos
-
-Network : Protocoles(TCP/UDP, IP,DHCP, ARP, STP, ICMP, STP, RSTP, OSPF , FTP ) Adressage IP ,Subneting,Sécurité Réseau(NAT ,ACL, IPSec VPN ) 
-
-Operating System : Linux, Windows,ubuntu,suse
-
-Programmation : Java
-
-Web Development: HTML, PHP, CSS, JavaScript, Java 
-
-Conception : UML
-
-DATA BASE: SQL, Mysql
-
-Work Methodology : TOGAF , ITSM , ITIL
-SAP : SAPGUI,Fiori , SAP solution manager , SAPA LAMA , jira , SAP netweaver AS java  , ERP , HANA , S/4HANA 
+- Application Desktop : C, Matlab
+- Integrated Development Environment (IDE) : Isis proteus , Matlab,Ensp, Cisco, Labview, HFSS ,Oracle Virtuel Box ,Docker 
+- Network Simulation : Ensp, Cisco ,Prometheus ,Grafana,GLPI,Eveng ,Sophos
+- Network : Protocoles(TCP/UDP, IP,DHCP, ARP, STP, ICMP, STP, RSTP, OSPF , FTP ) Adressage IP ,Subneting,Sécurité Réseau(NAT ,ACL, IPSec VPN ) 
+- Operating System : Linux, Windows,ubuntu,suse
+- Programmation : Java Web Development: HTML, PHP, CSS, JavaScript, Java 
+- Conception : UML
+- DATA BASE: SQL, Mysql
+- Work Methodology : TOGAF , ITSM , ITIL
+- SAP : SAPGUI,Fiori , SAP solution manager , SAPA LAMA , jira , SAP netweaver AS java  , ERP , HANA , S/4HANA 
 - 🌱 I’m currently learning **JAVA , ABAP , String , Angular , HTML , CSS , JS,Networking , Security , linux , AWS ,PHP**
 <h3  style="color: blue;">Language</h3>
-French | Operational 🧏🏻‍♂️
-English | B1 Intermediate 🔡
-Arabic | Native Language 🗣️
-Korean | Beginner 🏯
+- French | Operational 🧏🏻‍♂️
+- English | B1 Intermediate 🔡
+- Arabic | Native Language 🗣️
+- Korean | Beginner 🏯
 
 - 📫 How to reach me **islem.nasraoui21@gmail.com**
 
