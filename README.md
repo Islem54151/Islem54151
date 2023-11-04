@@ -4,10 +4,10 @@
 🎓 Bachelor's Degree in Networks and Telecommunications
 📚 Studying for a Software Engineer Degree
 I hold a Bachelor's degree in Information and Communication Technology from the Higher Institute of Information and Communication Technologies in Borj Cedria. I am constantly eager to learn, take on more responsibilities, and advance professionally.
-<h3 align="center" style="color: blue;">EXPERIENCES</h3>
+<h3  style="color: blue;">EXPERIENCES</h3>
 👩🏻‍💻 <h2> SAP Basis cosultant at Wynsys</h2> 
 
-👩🏻‍💻 <h2> End-of-year</h2> internship: Tunisie Télécom l ACTEL BEN AROUS
+👩🏻‍💻 <h2> End-of-year internship:</h2>  Tunisie Télécom l ACTEL BEN AROUS
 Title: Migration from PSTN Network to NGN Network
 
 Study on the Local Subscriber Network (LSN)
@@ -25,14 +25,14 @@ Integration of a Firewall
 Intervention to Improve Wi-Fi Network Coverage
 Creation of a Web Page for Network Monitoring Facilitation
 Keywords: Sophos firewall, Prometheus, Grafana, GLPI, Cisco Aironet Mobility Express, D-Link Router, Docker, Linux, PHP, CSS, HTML, JS
-<h3 align="center" style="color: blue;">CERTIFICATIONS</h3>
+<h3  style="color: blue;">CERTIFICATIONS</h3>
 ET80 - Sophos Firewall v19.5 - Engineer (2023)
 EFSET English certificate ( B1 Intermediate )(2023)
 ET 15 - Sophos Central Endpoint and Server v4,0 - Engineer
 Introduction to SAP (juillet 2023)
 SAP Fiori (juillet 2023)
 Jira Fundamentals Badge (aout  2023)
-<h3 align="center" style="color: blue;">Skills</h3>
+<h3 style="color: blue;">Skills</h3>
 Application Desktop : C, Matlab
 
 Integrated Development Environment (IDE) : Isis proteus , Matlab,
@@ -55,7 +55,7 @@ DATA BASE: SQL, Mysql
 Work Methodology : TOGAF , ITSM , ITIL
 SAP : SAPGUI,Fiori , SAP solution manager , SAPA LAMA , jira , SAP netweaver AS java  , ERP , HANA , S/4HANA 
 - 🌱 I’m currently learning **JAVA , ABAP , String , Angular , HTML , CSS , JS,Networking , Security , linux , AWS ,PHP**
-<h3 align="center" style="color: blue;">Language</h3>
+<h3  style="color: blue;">Language</h3>
 French | Operational 🧏🏻‍♂️
 English | B1 Intermediate 🔡
 Arabic | Native Language 🗣️
