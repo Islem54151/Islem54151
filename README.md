@@ -43,7 +43,7 @@ Title: Installation and Deployment of a Network Monitoring and Performance Enhan
 - DATA BASE: SQL, Mysql
 - Work Methodology : TOGAF , ITSM , ITIL
 - SAP : SAPGUI,Fiori , SAP solution manager , SAPA LAMA , jira , SAP netweaver AS java  , ERP , HANA , S/4HANA 
-- 🌱 I’m currently learning **JAVA , ABAP , String , Angular , HTML , CSS , JS,Networking , Security , linux , AWS ,PHP**
+- 🌱 I’m currently learning **JAVA , ABAP , Spring , Angular , HTML , CSS , JS,Networking , Security , linux , AWS ,PHP**
 <h3  style="color: blue;">Language</h3>
 - French | Operational 🧏🏻‍♂️
 - English | B1 Intermediate 🔡
