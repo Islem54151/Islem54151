@@ -1,9 +1,9 @@
 ![logo](https://github.com/Islem54151/Islem54151/blob/main/Make%20your%20README.png)
 <h1 align="center">Hi 👋, I'm Islem</h1>
 <h3 align="center"> 👩‍💼 SAP Basis consultant at Wynsys</h3>
-🎓 Bachelor's Degree in Networks and Telecommunications
-📚 Studying for a Software Engineer Degree
-I hold a Bachelor's degree in Information and Communication Technology from the Higher Institute of Information and Communication Technologies in Borj Cedria. I am constantly eager to learn, take on more responsibilities, and advance professionally.
+🎓 university degree in Networks and Telecommunications
+📚 Studying to become a Software Engineer 
+I hold a university degree in Information and Communication Technology from the Higher Institute of Information and Communication Technologies in Borj Cedria. I am constantly eager to learn, take on more responsibilities, and advance professionally.
 <h3  style="color: blue;">EXPERIENCES</h3>
  <h2> 👩🏻‍💻SAP Basis consultant at Wynsys</h2> 
 
