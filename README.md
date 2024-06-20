@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Islem</h1>
 <h3 align="center"> 👩‍💼 SAP Basis consultant at Wynsys</h3>
 🎓 university degree in Networks and Telecommunications
+<br>
 📚 Studying to become a Software Engineer 
+<br>
 I hold a university degree in Information and Communication Technology from the Higher Institute of Information and Communication Technologies in Borj Cedria. I am constantly eager to learn, take on more responsibilities, and advance professionally.
 <h3  style="color: blue;">EXPERIENCES</h3>
  <h2> 👩🏻‍💻SAP Basis consultant at Wynsys</h2> 
